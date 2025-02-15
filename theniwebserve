@@ -1,6 +1,6 @@
 ---
 - name: update  webserver
-  hosts: webservers
+  hosts: webserver
   remote_user:  root
 
   tasks:
